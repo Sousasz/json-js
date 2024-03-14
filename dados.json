@@ -1,0 +1,24 @@
+{
+"usuarios": [
+    {
+        "imagem": "Programming.jpg",
+        "nome": "Vinicius Morais",
+        "idade": 15
+    },
+    {
+        "imagem": "videogame.jpg",
+        "nome": "Jóse Ferreira",
+        "idade": 12
+    },
+    {
+        "imagem": "vibrantsColors.jpg",
+        "nome": "Pedro Carvalho",
+        "idade": 18
+    },
+    {
+        "imagem": "Group.jpg",
+        "nome": "Lucas Souza",
+        "idade": 8
+    }
+        ]
+}
